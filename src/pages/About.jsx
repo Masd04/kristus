@@ -45,6 +45,8 @@ return (
         ))}
     </div>
 
+    <Vyber />
+
     </div>        
   
   </>
