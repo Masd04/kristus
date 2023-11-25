@@ -24,19 +24,15 @@ return (
 
     <div className="flex-col justify-center">
 
-    <div className="bg-yellow-200 w-[91%] mx-auto rounded-md pb-5">
+    <div className="bg-yellow-200 w-[91%] mx-auto rounded-md pb-5 pt-4">
     <div className="select-none">
-      {/* <h1 className={`${styles.heading2} mb-2 ml-0 xs:ml-40`}>Milý Ježíšku...</h1>
+      
       <p className={`${styles.paragraph} text-black mx-3`}>
-      Přestože mi k Vánocům stačí zdraví a štěstí mých blízkých,
-      moderní kapitalistická společnost na nás tlačí s výběrem dárků.<br />
-      <span className="text-[0.9rem]">(pozn. autora: nejedná se o vyjádření nevděčnosti)</span> <br />
-      Jsem si plně vědom toho, že i když pocházím
-      z nesmírně zámožné rodiny, neměl bych tohoto privilegia zneužívat.<br />
-      Poskytuji ti do nebes tedy pouze inspirační seznam věcí,
-      jež by mě potěšily pod stromkem v případě, že mě shledáš dostatečně hodným.<br />       
-      </p> */}
-      <p className={`text-red font-cormorant font-extrabold text-center xs:text-right text-3xl mt-5 pt-5  mr-0 xs:mr-40`}>Maminka.</p>
+      Je nad slunce jasné, že ve věci hodnosti mi všichni z dálky koukáte na záda.<br />
+      Z dohoto důvodu se skromně domnívám, že pod stromkem naleznu vše ze seznamu, ne-li více podobných překvapení.
+            
+      </p>
+      <p className={`text-red font-cormorant font-extrabold text-center xs:text-right text-3xl mt-5  mr-0 xs:mr-40`}>Maminka.</p>
 
     </div>
     </div>
