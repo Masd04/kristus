@@ -3,14 +3,14 @@ import React from 'react';
 
 const CardComponent = ({ card, index }) => {
     const bgColor = index % 2 === 0 ? 'bg-red-500' : 'bg-green-500';
-    console.log(index, bgColor);
-
+    const isSpecialCard = card.name === "Dvoufázový odličovač očí";
+    const imageStyle = isSpecialCard ? 'h-[15rem] w-[10rem]' : 'h-[20rem] xs:h-full w-full';
 
     return (
         <div className={`max-w-md mx-auto rounded-xl shadow-md overflow-hidden md:max-w-2xl m-4 bg-gray-100`}>
             <div className="md:flex">
                 <div className="md:flex-shrink-0 flex items-center justify-center m-3">
-                    <img className="h-[20rem] xs:h-full w-full object-contain xs:object-cover md:w-48 mx-0" src={card.image} alt={card.name} />
+                    <img className={`${imageStyle} object-contain xs:object-cover md:w-48 mx-0`} src={card.image} alt={card.name} />
                 </div>
                 <div className="p-8">
                     <div className="uppercase tracking-wide text-xl text-green font-bold font-monserrat">{card.name}</div>

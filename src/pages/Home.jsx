@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import CardComponent from '../components/CardComponent';
+import Vyber from '../components/vyber';
 import cardData from '../data/cards.json';
 import styles from "../style"
 import { bg } from "../static/img";
@@ -18,6 +19,8 @@ function Home() {
       <div className="fixed bg-cover top-0 left-0 right-0 bottom-0 z-[-10]" style={{ backgroundImage: `url(${bg})`}}></div>
 
       <div className="relative z-0">
+
+          <Vyber />
 
         <div className="flex-col justify-center">
 

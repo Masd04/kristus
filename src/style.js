@@ -16,7 +16,10 @@ const styles = {
     marginX: "sm:mx-16 mx-6",
     marginY: "sm:my-16 my-6",
 
-    
+
+    buttonV: "font-monserrat text-3xl rounded-lg px-4 py-3 text-white scale-100 hover:scale-110 cursor-pointer",
+
+   
   };
   
   export default styles;
