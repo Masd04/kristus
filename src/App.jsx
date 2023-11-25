@@ -10,7 +10,7 @@ function App() {
     <>
     {/* <div className="bg-cover bg-center fixed top-0 left-0 right-0 bottom-0" style={{ backgroundImage: `url(${bg})` }}></div>
  */}
-    <Router basename={"/"}>
+    <Router basename={"/kristus"}>
     <div className="pt-24">
       <Navbar />
       <Routes>
