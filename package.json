@@ -1,7 +1,7 @@
 {
   "name": "swapper",
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://masd04.github.io/kristus/",
   "private": false,
   "scripts": {
     "dev": "vite",
