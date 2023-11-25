@@ -27,7 +27,7 @@ function Home() {
           <p className={`${styles.paragraph} text-black mx-3`}>
           Přestože mi k Vánocům stačí zdraví a štěstí mých blízkých,
           moderní kapitalistická společnost na nás tlačí s výběrem dárků.<br />
-          <span className="text-[0.92rem]">(pozn. autora: nejedná se o vyjádření nevděčnosti)</span> <br />
+          <span className="text-[0.9rem]">(pozn. autora: nejedná se o vyjádření nevděčnosti)</span> <br />
           Jsem si plně vědom toho, že i když pocházím
           z nesmírně zámožné rodiny, neměl bych tohoto privilegia zneužívat.<br />
           Poskytuji ti do nebes tedy pouze inspirační seznam věcí,
