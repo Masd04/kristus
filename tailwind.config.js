@@ -14,6 +14,8 @@ module.exports = {
         fontFamily: {
           monserrat: ['Montserrat', 'sans-serif'],
           cormorant: ['Cormorant', 'serif'],
+          indie: ['Kalam', 'cursive'],
+          
 
           
         },

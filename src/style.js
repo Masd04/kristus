@@ -1,9 +1,9 @@
 const styles = {
     boxWidth: "xl:max-w-[1280px] w-full",
 
-    heading2: "font-cormorant font-bold xs:text-[48px] text-[3rem] text-black xs:leading-[76.8px] leading-[66.8px] w-full text-center xs:text-left select-none",
+    heading2: "font-indie font-bold xs:text-[48px] text-[3rem] text-black xs:leading-[76.8px] leading-[66.8px] w-full text-center xs:text-left select-none",
     
-    paragraph: "font-cormorant font-semibold text-[1.5rem] leading-[30.8px] text-center",
+    paragraph: "font-indie font-semibold text-[1.5rem] leading-[30.8px] text-center",
     
     flexCenter: "flex justify-center items-center",
     flexStart: "flex justify-center items-start",
