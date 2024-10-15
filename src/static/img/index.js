@@ -1,4 +1,4 @@
-import bg from "./bg.gif"
+import bg from "./bg1.jpg"
 
 export {
     bg,

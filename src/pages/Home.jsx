@@ -26,7 +26,7 @@ function Home() {
 
         <div className="bg-yellow-200 w-[91%] mx-auto rounded-md pb-5">
         <div className="select-none">
-          <h1 className={`${styles.heading2} mb-2 ml-0 xs:ml-40`}>Milý Ježíšku...</h1>
+          <h1 className={`${styles.heading2} mb-2 ml-0 xs:ml-24`}>Milý Ježíšku...</h1>
           <p className={`${styles.paragraph} text-black mx-3`}>
           Přestože mi k Vánocům stačí zdraví a štěstí mých blízkých,
           moderní kapitalistická společnost na nás tlačí s výběrem dárků.<br />
