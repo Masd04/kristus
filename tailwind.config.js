@@ -9,15 +9,14 @@ module.exports = {
         green: "#165B33",
         red: "#BB2528",
         dimWhite: "rgba(255, 255, 255, 0.7)",
+        gold: '#FFD700',
         },
 
         fontFamily: {
           monserrat: ['Montserrat', 'sans-serif'],
           cormorant: ['Cormorant', 'serif'],
           indie: ['Kalam', 'cursive'],
-          
-
-          
+          hw: ['Patrick Hand', 'Dancing Script', 'cursive']
         },
       
     keyframes: {

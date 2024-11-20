@@ -1,73 +1,28 @@
 [
     {
-        "name": "Raspberrry Pi 4B nebo verze 5 (hlavně 8GB RAM)",
-        "description": "Malinký počítač, ze kterého si snad vytvořím svůj vlastní server (má i další využití). Cenově dostupnější je 4B a ve výkonu nebude až takový rozdíl, takže preferuji tuto možnost.",
-        "image": "https://cdn3.botland.cz/78045/raspberry-pi-4-model-b-wifi-dualband-bluetooth-8-gb-ram-15-ghz.jpg",
+        "name": "Kresba řeky života",
+        "description": "Na velký papír nakreslit řeku života, která začíná např. svatbou a končí současností. Řeka se postupně rozšiřuje, a na jejích březích každý člen rodiny nakreslí nějaký obrázek symbolizující významnou událost. Celou kresbu oživte detaily, jako jsou stromy, hory.. Výsledkem bude jedinečný rodinný obraz plný vzpomínek.",
+        "image": "src/static/img.png",
         "links": [
-            {
-                "text": "Odkaz 1",
-                "url": "https://botland.cz/moduly-a-sady-raspberry-pi-4b/16579-raspberry-pi-4-model-b-wifi-dualband-bluetooth-8-gb-ram-15-ghz-765756931199.html"
-            },
-            {
-                "text": "Odkaz 2",
-                "url": "https://cz.farnell.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIqqBZXudkytVHUyc34dpxdoODgIbjgbElnT2Lez5fSOWgOIETWA2YBoCCFwQAvD_BwE&mckv=_dc|pcrid||plid||kword||match||slid||product|3369503|pgrid||ptaid||&CMP=KNC-GCZ-GEN-SHOPPING-PMax-PL_USDirectShip&gross_price=true"
-            }
+           
         ]
     
     },
     {
         "name": "Ponožky Under Armour",
-        "description": "Velikost MEDIUM (nebo 38-42). Snad nejlepší ponožky, co jsem kdy měl. Existuje víc variant a nebráním se kterékoli z nich.",
+        "description": "Velikost MEDIUM (nebo 38-42). Existuje víc variant a nebráním se kterékoli z nich.",
         "image": "https://i1.t4s.cz/products/1379512-011/under-armour-ua-performance-tech-3pk-crew-gry-619460-1379512-011.jpg",
         "linktxt": "Odkaz 1",
         "links": [
-            {
-                "text": "Odkaz 1",
-                "url": "https://www.sportega.cz/ponozky-under-armour-heatgear-crew-blk.htm?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIg7Ik7HM10YcyoGrBkxOHEsgteEp5OBiwajALk3YgwZejS2-9Qwc0RoCXa4QAvD_BwE#74109-1124"
-            },
-            {
-                "text": "Odkaz 2",
-                "url": "https://www.espaceshop.cz/ponozky-under-armour-ua-heatgear-crew-3pk-wht--1346751-100.html#M"
-            },
-            {
-                "text": "Odkaz 3",
-                "url": "https://gymbeam.cz/ponozky-heatgear-crew-white-under-armour.html?campaignid=19660289418&adgroupid=&gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIqqppKk0IDXHPiz5TWWAGetKZsuIGrbMX2KTBRipxiR3Ja-BwC8J-xoCFloQAvD_BwE#44395"
-            },  
-            {
-                "text": "Odkaz 4",
-                "url": "https://top4running.cz/p/under-armour-ua-performance-tech-3pk-crew-gry-1379512-011"
-            }
+        
         ]
     },
     {
-        "name": "Tepláky",
-        "description": "U Adidasu mám velikost S. Nebráním se stejným teplákům s podobným střihem.",
-        "image": "https://img01.ztat.net/article/spp-media-p1/d20428df4f4b4365a6ba168a29acc114/4b7b8058dc5440f2b3bff19221bf3bd4.jpg?imwidth=1800",
+        "name": "Motokáry nebo škola smyku",
+        "description": "Motoristický zážitek všeho druhu by byl značně uvítán.",
+        "image": "https://www.formula1.com/fom-website/2023/Miscellaneous/GettyImages-1656999898.jpg",
         "links": [
-            {
-                "text": "Odkaz 1",
-                "url": "https://www.zalando.cz/adidas-performance-tiro-23-club-training-pant-teplakove-kalhoty-black-bliss-blue-ad542e31w-q18.html?size=S&fbclid=IwAR1zx5tPP7vnuvS0ejvtOT6tZ73cV3ug3haiArrJYd8rlGuOKibMx4PChAs"
-            },
-            {
-                "text": "Odkaz 2",
-                "url": "https://www.zalando.cz/adidas-performance-tiro-23-club-training-pant-teplakove-kalhoty-blackteam-real-magenta-ad542e31w-q11.html?size=S&fbclid=IwAR0SWHG3LijNKsdpg3FU7uRG8i2f1Erbu_fOnFiOyPXaDDAN4jIYHgboFR8"
-            },
-            {
-                "text": "Odkaz 3",
-                "url": "https://11teamsports.cz/p/adidas-ent22-tr-pnt-hc0332?size=3xl&utm_source=googlemerch&utm_medium=cpc&utm_campaign=googlemerch&gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIldFYKCSqNuR023Wtf5nngoDkC-4QKS_VOr5T1ZTu3IbS652Y5-FLRoCoZQQAvD_BwE"
-            },  
-            {
-                "text": "Odkaz 4",
-                "url": "https://11teamsports.cz/p/adidas-tiro-23-trainingshose-damen-schwarz-gelb-ic1602?size=xs&utm_source=googlemerch&utm_medium=cpc&utm_campaign=googlemerch&gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsImkgAbhmm0nBqhc8mdPVEyLt-m4C5zzFkEilfIvxMA_em5K5BY36rRoCVhsQAvD_BwE"
-            }
-        ]
-    },
-    {
-        "name": "Polo tričko",
-        "description": "V H&M mám velikost L. Nové polo tričko na plesovou sezónu bych také uvítal. Mám nové tmavé kalhoty se čtvercovým vzorem.",
-        "image": "https://cdn.aboutstatic.com/file/images/39eafb564726446627698ea29115c2d3.jpg?brightness=0.96&quality=75&trim=1&height=1280&width=960",
-        "links": [
-            
+ 
         ]
     },
     {
@@ -79,6 +34,14 @@
                 "text": "Odkaz 1",
                 "url": "https://www.sportega.cz/brankarska-hokejka-fischer-gf750-sr.htm?gad_source=1&gclid=CjwKCAiA04arBhAkEiwAuNOsIkDZHADY-ftzZMe_TBPrH1S0P2pgHRTOTGZ_Mz5QKCfBLakT1mZjJBoCqpcQAvD_BwE#59505-4659"
             }
+        ]
+    },
+    {
+        "name": "bude doplněno",
+        "description": "",
+        "image": "https://lh4.googleusercontent.com/proxy/5aKdJ8KZFqa5Du_8iw0RZ0SmOBlfji8-sT0_Tm_h8grxvgDyRshMcguhAJXenNEdFLCcAJk0n5WLh7KS8VadA3aw_ZY",
+        "links": [
+     
         ]
     }
    
