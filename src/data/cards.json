@@ -2,7 +2,7 @@
     {
         "name": "Kresba řeky života",
         "description": "Na velký papír nakreslit řeku života, která začíná např. svatbou a končí současností. Řeka se postupně rozšiřuje, a na jejích březích každý člen rodiny nakreslí nějaký obrázek symbolizující významnou událost. Celou kresbu oživte detaily, jako jsou stromy, hory.. Výsledkem bude jedinečný rodinný obraz plný vzpomínek.",
-        "image": "static/img/img.png",
+        "image": "https://brekekemekeke.pofel.it/img.png",
         "links": [
            
         ]
@@ -18,11 +18,20 @@
         ]
     },
     {
-        "name": "Motokáry nebo škola smyku",
+        "name": "Něco jako motokáry nebo škola smyku",
         "description": "Motoristický zážitek všeho druhu by byl značně uvítán.",
         "image": "https://www.formula1.com/fom-website/2023/Miscellaneous/GettyImages-1656999898.jpg",
         "links": [
  
+        ]
+    },
+    {
+        "name": "Vonné tyčinky",
+        "description": "Vonné tyčinky si kupuji v zahradnictní Debř, nebráním se však experimentům.",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRmTrkqZqoeNu7RLdYJ55hSMQundlfjNw6ERqbLDIsPxIeYDkTsJj2x6_Uqe5JUc1FUN0QmycAiYw0aJU5_2Ut9x_A3ue-9bdS6Dfbsa6tQWXSyIKXMtIln",
+        "linktxt": "Odkaz 1",
+        "links": [
+        
         ]
     },
     {

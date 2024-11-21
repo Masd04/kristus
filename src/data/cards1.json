@@ -2,20 +2,31 @@
     {
         "name": "Poukaz do 'YES PRÁDLO",
         "description": "Hodnotu rozumně volí ježížek",
-        "image": "https://www.krytoland.cz/rimage/169589479/500/500/crop/28785652_content_c66e47a051c69199fbddd962a7231a1a.jpg",
+        "image": "https://brekekemekeke.pofel.it/yesp.jpg",
         "links": [
             
         ]
     
     },
     {
-        "name": "Kryt na telefon",
-        "description": "Nový, překrásný a hlavně správný typ krytu na telefon.",
-        "image": "yesp",
+        "name": "Legíny LELOSI",
+        "description": "Původním pčáním byly legíny na obrázku z outlet sekce, ale ty jsem již na obrázku nenašel. Název byl 'Capri Silhouette Mademoiselle'",
+        "image": "https://img.modio.cz/th/product/7e5/c5f/lelosi-leginy-capri-silhouette-m_3b59d40b210e82084ab9ad2452_w470_h470.jpg",
         "links": [
-            
+            {
+                "text": "Odkaz na podobné legíny",
+                "url": "https://lelosi.cz/pages/search-results-page?q=capri%20silhouette"
+            }
         ]
     
+    },
+    {
+        "name": "Kryt na telefon",
+        "description": "Nový, překrásný a hlavně správný typ krytu na telefon.",
+        "image": "https://www.krytoland.cz/rimage/169589479/500/500/crop/28785652_content_c66e47a051c69199fbddd962a7231a1a.jpg",
+        "links": [
+       
+        ]
     },
     {
         "name": "Sběratelé ostatků",
