@@ -8,13 +8,13 @@ function Vyber() {
     <div className="flex justify-center space-x-6 mb-5">
 
     <Link to="/mamka">
-    <button className={`${styles.buttonV} bg-red`}>
+    <button className={`${styles.buttonV} bg-gradient-to-b from-red to-red2`}>
         Mamka
     </button>
     </Link>
 
     <Link to="/">
-    <button className={`${styles.buttonV} bg-green`}>
+    <button className={`${styles.buttonV} bg-gradient-to-b from-green to-green2`}>
         Dádis
     </button>
     </Link>

@@ -17,7 +17,7 @@ const styles = {
     marginY: "sm:my-16 my-6",
 
 
-    buttonV: "font-monserrat text-3xl rounded-lg border-2 border-gray-100 px-4 py-3 text-white scale-100 hover:scale-110 cursor-pointer",
+    buttonV: "font-monserrat text-3xl rounded-lg border-2 border-gray-100 px-4 py-3 text-white scale-100 hover:scale-110 cursor-pointer shadow-[0px_4px_6px_rgba(0,0,0,0.2)] hover:shadow-[0px_6px_8px_rgba(0,0,0,0.25)] active:translate-y-1 active:shadow-[0px_2px_4px_rgba(0,0,0,0.2)]",
 
    
   };
