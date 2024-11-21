@@ -2,7 +2,7 @@
     {
         "name": "Kresba řeky života",
         "description": "Na velký papír nakreslit řeku života, která začíná např. svatbou a končí současností. Řeka se postupně rozšiřuje, a na jejích březích každý člen rodiny nakreslí nějaký obrázek symbolizující významnou událost. Celou kresbu oživte detaily, jako jsou stromy, hory.. Výsledkem bude jedinečný rodinný obraz plný vzpomínek.",
-        "image": "src/static/img.png",
+        "image": "static/img/img.png",
         "links": [
            
         ]
