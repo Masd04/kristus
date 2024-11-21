@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import CardComponent from '../components/CardComponent';
-import Vyber from '../components/vyber';
+import Vyber from '../components/Vyber';
 import cardData from '../data/cards.json';
 import styles from "../style"
 import { bg } from "../static/img";

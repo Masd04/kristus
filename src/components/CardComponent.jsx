@@ -9,14 +9,14 @@ const CardComponent = ({ card, index }) => {
     const diffStyleUse = diffStyle ? 'w-[9rem]' : 'h-[20rem] xs:h-full w-full';
 
     return (
-        <div className={`max-w-md mx-auto rounded-xl shadow-md overflow-hidden md:max-w-2xl mb-10 bg-gray-100`}>
+        <div className={`max-w-md mx-auto rounded-xl shadow-md overflow-hidden md:max-w-2xl mb-10 bg-gray-100 bg-opacity-90`}>
             <div className="md:flex">
                 <div className="md:flex-shrink-0 flex items-center justify-center m-3">
                     <img className={`${imageStyle} ${diffStyleUse} object-contain xs:object-cover md:w-48 mx-0`} src={card.image} alt={card.name} />
                 </div>
                 <div className="px-8 pb-8 pt-0">
                     <div className="uppercase tracking-wide text-xl text-green font-bold font-monserrat">{card.name}</div>
-                    <p className="mt-2 text-gray-500 text-lg">{card.description}</p>
+                    <p className="mt-2 text-gray-900 text-lg">{card.description}</p>
                     {card.links && card.links.map((link, linkIndex) => (
                         <a key={linkIndex} href={link.url} target="_blank" className="block mt-1 text-lg leading-tight font-medium text-red hover:underline">
                             {link.text}
