@@ -14,7 +14,7 @@ const CardComponent = ({ card, index }) => {
                 <div className="md:flex-shrink-0 flex items-center justify-center m-3">
                     <img className={`${imageStyle} ${diffStyleUse} object-contain xs:object-cover md:w-48 mx-0`} src={card.image} alt={card.name} />
                 </div>
-                <div className="px-8 pb-8 pt-0">
+                <div className="px-8 pb-8 pt-0 md:pt-5">
                     <div className="uppercase tracking-wide text-xl text-green font-bold font-monserrat">{card.name}</div>
                     <p className="mt-2 text-gray-900 text-lg">{card.description}</p>
                     {card.links && card.links.map((link, linkIndex) => (
